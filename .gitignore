@@ -1,0 +1,31 @@
+# 依赖
+node_modules/
+.pnpm-store/
+
+# 构建产物 / 设备包
+dist/
+build/
+*.amr
+*.apk
+
+# 工具与调试缓存
+.falcon_/
+.falcon_tmp/
+.tmpdev/
+.workbuddy/
+*.log
+tmp/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地敏感文件
+.env
+.env.*
+!.env.example
+*.pem
+*.key

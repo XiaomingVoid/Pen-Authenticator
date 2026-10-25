@@ -1,0 +1,17 @@
+{
+  "pages": {
+    "index": "pages/index/index.vue",
+    "scan": "pages/scan/scan.vue",
+    "edit": "pages/edit/edit.vue",
+    "settings": "pages/settings/settings.vue",
+    "unlock": "pages/unlock/unlock.vue",
+    "softKeyboard": "pages/softKeyboard/softKeyboard.vue"
+  },
+  "options": {
+    "style": {
+      "lessPaths": [
+        "styles"
+      ]
+    }
+  }
+}
