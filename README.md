@@ -1,5 +1,8 @@
 # 验证器 Authenticator（有道词典笔 X7P）
 
+项目基于https://github.com/chezixiang/Pen-Authenticator使用ai进行修改，
+主要为适配Google的F2A转移功能
+
 给有道词典笔写的两步验证（TOTP/HOTP）小程序：多账号管理、扫码/手动导入、可选 PIN 加密。
 基于上级目录 `classic_sdk` 的有道小程序 SDK 构建。
 
