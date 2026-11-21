@@ -1,5 +1,5 @@
 # 验证器 Authenticator（有道词典笔 X7P）
-
+# 未验证
 项目基于https://github.com/chezixiang/Pen-Authenticator 使用ai进行修改，
 主要为适配Google的F2A转移功能
 
